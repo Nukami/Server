@@ -1,6 +1,6 @@
 PanDownload的个人维护版本
 
-2020/09/15
+2020/09/15 备注 如果有什么想法，欢迎发issues，如果对网页有什么想法，可直接发Pull requests。
 
 熊厂更改了登陆API的数据返回，导致BDSTOKEN获取失败，这将整合到3.5版本的更新中发布，目前暂时无法使用，如有急用，请先拿kinhdown代替。KinhDown地址：<http://kinhdown.kinh.cc/>
 
