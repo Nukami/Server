@@ -8,11 +8,11 @@ PanDownload的个人维护版本
 
 目前情况：
 
-bdstoken获取失败 未修复
+bdstoken获取失败 已修复
 
-中文名乱码BUG 未修复
+中文名乱码BUG 已修复
 
-重开PD时下载任务漏加速 未修复
+重开PD时下载任务漏加速 无法复现
 
 程序环境异常 排查ing
 
@@ -29,6 +29,16 @@ bdstoken获取失败 未修复
 抹掉原PD的赞助二维码 Todo
 
 3.5版本带一个VS2017运行库 Todo
+
+发release包 Todo
+
+调整服务器防火墙 Todo
+
+增加一处bdstoken获取 Todo
+
+优化代码 Todo
+
+网页Live2D配音 Todo
 
 官网：<https://kurukurumi.tk/>
 
