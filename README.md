@@ -1,6 +1,6 @@
 PanDownload的个人维护版本
 
-2020/09/17 备注 如果有什么想法，欢迎发issues，如果对网页有什么想法，可直接发Pull requests。
+2020/09/20 备注 如果有什么想法，欢迎发issues，如果对网页有什么想法，可直接发Pull requests。
 
 熊厂更改了登陆API的数据返回，导致BDSTOKEN获取失败，这将整合到3.5版本的更新中发布，目前暂时无法使用，如有急用，请先拿kinhdown代替。KinhDown地址：<http://kinhdown.kinh.cc/>
 
@@ -16,27 +16,27 @@ bdstoken获取失败 已修复
 
 程序环境异常 可能与DLL缺失和系统内核数字签名有关。
 
-增加kinhdown通道 延后 与伞兵四号通道相似，考虑使用kinh的云解析。
+增加kinhdown通道 取消，使用kinh的云解析。
 
-增加云解析通道 延后 需要分享链接地址，涉及到各种冲突和临时保存，暂时没有完美的方案。划掉)考虑对接一个接口出来。
+增加云解析通道 完成
 
 度盘搜的企划 Todo 延后到3.6
 
 增加程序公告 YES
 
-官网考虑增加评论系统 Todo
+官网考虑增加评论系统 取消
 
-抹掉原PD的赞助二维码 Todo
+抹掉原PD的赞助二维码 处理ing
 
 3.5版本带一个VS2017运行库 Todo
 
 发release包 Todo
 
-调整服务器防火墙 Todo 正在处理ing
+调整服务器防火墙 完成
 
-增加一处bdstoken获取 Todo
+增加一处bdstoken获取 取消
 
-优化代码 Todo 40%
+优化代码 Todo 60%
 
 网页Live2D配音 延后 3.5版本之后找时间实装
 
